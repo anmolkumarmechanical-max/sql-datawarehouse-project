@@ -47,7 +47,7 @@ sls_order_dt int,
 sls_ship_dt int,
 sls_due_dt int,
 sls_sales int,
-sls_qauntity int,
+sls_quantity int,
 sls_price int
 );
 
